@@ -1,14 +1,10 @@
-<<<<<<< HEAD
+
 # JavaScript
-=======
- # JavaScript
- 
  
  we use JavaScript in browsers to make websites more interactive by add element ,accessing and modifiying contant
  and we can select any element in page , also JavaScript can program role and raect when a botton presssed for example.
  
  ***A  script is a series of instructions that a computer can follow to achieve a goal***
->>>>>>> a0c9ec82a243132617a8b6702e35648017aeff58
 
 we use JavaScript in browsers to make websites more interactive by add element ,accessing and modifiying contant
 and we can select any element in page , also JavaScript can program role and raect when a botton presssed for example.
