@@ -18,6 +18,8 @@ Achievement       |       link                                   |
   read03          |   [Structure web pages with HTML](read03)    |
   ----------------|----------------------------------------------|
   read04          |   [Programming with JavaScript](read04)      |
+  ----------------|----------------------------------------------|
+  read05          |   [Operators and Loops](read05)
 
 
 
