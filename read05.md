@@ -17,26 +17,28 @@ the result it will be T or F .
 
 ## Logical operator 
 
-I can understand when we use comparison op. we have single value but in logical operator
-we can compare the result of more than one comparison operator 
+*I can understand when we use comparison op. we have single value but in logical operator
+we can compare the result of more than one comparison operator* 
 
-&  and (sympol of logical op.) if one retuns fulse the expression fulse 
+**&**  and (sympol of logical op.) if one retuns fulse the expression fulse 
 
-|| or  if one retuns true the expression true 
+**||** or  if one retuns true the expression true 
 
-! not  one retun 
+**!** not  one retun true it's Fulse 
+
+
 
 
 ## Loop
 
-loop check a condetion if the condition is true a code will run until the condition retuns fulse
-if condition fulse there are three common type of loop 
+*loop check a condetion if the condition is true a code will run until the condition retuns fulse
+if condition fulse there are three common type of loop*
 
-For it's to run code in specifc number of time 
+***For*** it's to run code in specifc number of time 
 
-While if we dont know how many times code will be true
+***While*** if we dont know how many times code will be true until the code is fulse it's break down
 
-Do While  it's similar to wile loop but it's always run inside {} even the condition is fulse
+***Do While***  it's similar to wile loop but it's always run inside {} even the condition is fulse
 
 
 in FOR loop use counter as condition we can use 3 statements :
@@ -45,4 +47,7 @@ in FOR loop use counter as condition we can use 3 statements :
 
 + condition loop continue until specified number 
 
-+ update ++ every time loop add one to counter in {} 
++ update ++ every time loop add one to counter in {}
+
+
+***For(var i=0; i<5; i++)***
