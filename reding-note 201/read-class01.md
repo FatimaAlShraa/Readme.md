@@ -22,7 +22,7 @@ in html elements there is a code wich contain the information of webpage it is c
 + body ( contain what we want to add in this page( header,main,footer))
 
 
-## *Extra Markup*
+## ***Extra Markup****
 
 Since the web was first created, there have been several different versions of HTML until they creat html5
 so we use DOCTYPE to tell the computer we use HTML5 , so we can use several elemants in HTML and I will put some example of those elements:
