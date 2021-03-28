@@ -73,7 +73,7 @@ about comparison op. the result will be T or F
 
 **&**  and (sympol of logical op.) if one retuns fulse the expression fulse 
 
-**||** or  if one retuns true the expression true 
+**| |** or  if one retuns true the expression true 
 
 **!** not  one retun true it's Fulse 
 
