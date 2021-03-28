@@ -32,6 +32,7 @@ Achievement       |       link                                   |
 
 Achievement       |        link                                       |
 ------------------|---------------------------------------------------|
-read-class01      |   [Introductory HTML and JavaScript](read-class01)|
+class01           |   [Introductory HTML and JavaScript](class01)     |
+------------------|---------------------------------------------------|        
+class02           |   [HTML, CSS, and Basic JavaScript](class02)      |
 ------------------|---------------------------------------------------|
-
