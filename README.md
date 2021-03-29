@@ -36,3 +36,5 @@ class01           |   [Introductory HTML and JavaScript](class01)     |
 ------------------|---------------------------------------------------|        
 class02           |   [HTML, CSS, and Basic JavaScript](class02)      |
 ------------------|---------------------------------------------------|
+class03           |  [HTML Lists, CSS Boxes, JS Control Flow](class03)|
+------------------|---------------------------------------------------|
