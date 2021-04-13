@@ -1,4 +1,4 @@
-#THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS
+# THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS
 
 persistent local storage is areas where native client applications have held an advantage over web applications
 If your native client application needs local storage beyond key/value pairs, you can embed your own database, 
