@@ -1,37 +1,22 @@
-# Lists and Keys
+# React lifecycle 
 
-first we use the map() function to take an array of numbers and double their values.
- can build collections of elements and include them in JSX using curly braces { } and we can loop
-around array by map and make list by < li >
++ The render happens first method is required and will always be called, the others are optional and will be called if you define them.
 
-Keys help React identify which items have changed, are added, or are removed
-should keep the key on the < ListItem / > elements in the array and must only be unique 
++ Mounting phase (constructor) which is mean  putting elements into the DOM.
+
++ React has four built-in methods constructor, render, React Updates, componentDidMount, and componentWillUnmount.
+
++ componentDidMount() is used to connect to the YouTube API and get videos when the components is rendered.
+
+![react cycle](https://www.kirupa.com/react/images/lifecycle_react2.png)
 
 
-## Spread Operator
+## prpps and State 
 
- useful and quick syntax for adding items to arrays, combining arrays or objects, and spreading an array out into 
-a function’s arguments and  was added to JavaScript in ES6 (ES2015), just like the rest parameters.
++ Props: are like arguments to functions, props pass into a component which means It is handled outside the component 
+and must be updated outside the component Props are passed to components via HTML attributes.
 
-+ used for :
 
-+ we can trying to find the largest number in an array with Math.max()
 
-+ pass an array to a JavaScript function expecting separate arguments does not work
-
-*what else can do?*
-
-+ Copying an array
-+ Concatenating or combining arrays
-+ Using Math functions
-+ Using an array as arguments
-+ Adding an item to a list
-+ Adding to state in React
-+ Combining objects
-+ Converting NodeList to an array
-
-*example*
-
- copying an array, splitting a string into characters, and combining the properties of two JavaScript objects
-
-spread operator … is useful for working with arrays and objects in JavaScript
++ State: object inside a component, is handled inside the component and must be updated inside the component
+When the state object changes, the component re-renders.

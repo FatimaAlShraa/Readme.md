@@ -70,7 +70,9 @@ class14           |   [What Google Learned About Teams](class14)      |
 
 Achevment          |    links                                           |
 -------------------|----------------------------------------------------|
-Read1              | [State and Props](Read1)                           |
+Read1              | [State and Props](Read2)                           |
 -------------------|----------------------------------------------------|
-Read2              | [Passing Functions as Props](Read2)                |
+Read2              | [Passing Functions as Props](Read3)                |
+-------------------|----------------------------------------------------|
+Read3              | [React and Forms](Read4)                           |
 -------------------|----------------------------------------------------|
