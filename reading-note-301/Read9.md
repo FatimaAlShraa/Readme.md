@@ -20,7 +20,7 @@ Q2:  using require and passing to it the path of the file we want
 
 Q3: export it from the module file and then require it at our file
 
-Q9:we have to export it using the add() function in the lib.js file
+Q9:we have to export it using the add() function in the .js file
 
 
 
